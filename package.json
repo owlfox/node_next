@@ -1,0 +1,24 @@
+{
+  "name": "node_next",
+  "version": "1.0.0",
+  "description": "Complete Node.js Guide by max",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owlfox/node_next.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/owlfox/node_next/issues"
+  },
+  "homepage": "https://github.com/owlfox/node_next#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
